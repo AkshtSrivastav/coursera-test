@@ -26,7 +26,7 @@
         position: relative;
     }
 
-    .title {
+    .title1 {
         float: right;
         width: 160px;
         padding: 15px;
@@ -35,7 +35,33 @@
         text-align: center;
         font-size: 155%;
         font-weight: bold;
-        background-color: #581845;
+        background-color:#D00707;
+
+    }
+
+    .title2 {
+        float: right;
+        width: 160px;
+        padding: 15px;
+        margin: 0px;
+        color: white;
+        text-align: center;
+        font-size: 155%;
+        font-weight: bold;
+        background-color:#070707;
+
+    }
+
+    .title3 {
+        float: right;
+        width: 160px;
+        padding: 15px;
+        margin: 0px;
+        color: white;
+        text-align: center;
+        font-size: 155%;
+        font-weight: bold;
+        background-color:#DECF19;
 
     }
 
