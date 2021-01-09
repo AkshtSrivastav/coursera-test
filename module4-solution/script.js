@@ -1,5 +1,5 @@
 
-(function () {
+(function (window) {
 
 var names = ["Akshat", "Tanmay", "Sid", "John", "Jerry", "Zoro", "Yogesh", "Jain", "Vaibhav", "Jake"];
 
@@ -14,4 +14,4 @@ for (var i = 0; i < names.length; i++) {
   }
 }
 
-})();
+})(window);
